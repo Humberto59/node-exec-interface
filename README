@@ -1,0 +1,1 @@
+The intentio of this project it's create a module that return a class to the execution of commands in local host using subprocess or remote host using paramiko
